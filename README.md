@@ -1,0 +1,2 @@
+# gquerytest
+light version
